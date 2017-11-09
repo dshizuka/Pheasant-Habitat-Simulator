@@ -135,6 +135,12 @@
                                           tags$a(href = "http://rwbjv.org/", "Rainwater Basin Joint Venture."),
 
                                   br(), br(),
+                                       
+                                       "Although these data have been processed successfully, no warranty expressed or implied is made regarding the display or 
+                                        utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute
+                                        any such warranty. The USGS or the U.S. Government shall not be held liable for improper or incorrect use of the data described
+                                        and (or) contained herein.",
+                                  br(), br(),
                                     
                                    strong("Citation:"), br(), br(),
                                   "Wszola, L.S., C.R. Gillespie, E.F. Stuber, L.N. Messinger, L.H. Corral, V.L. Simonsen, C.F. Jorgensen and J.J. Fontaine. 2017. Pheasant Habitat Simulator."
