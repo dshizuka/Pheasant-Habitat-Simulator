@@ -11,7 +11,6 @@
 
   shinyUI(navbarPage("Pheasant Habitat Simulator", theme = "read", # Sets the pagelayout and selects a CSS theme, which controls the colors and appearence
                      tabPanel("Welcome", # Tab name
-                              tags$head(includeScript("google-analytics.js")),
                                   sidebarLayout(position = "left",
                                     sidebarPanel(
                                     strong("Welcome to the pheasant habitat simulator!"), # make a bold line
