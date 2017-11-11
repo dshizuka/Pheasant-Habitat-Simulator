@@ -4,7 +4,7 @@ The Pheasant Habitat Simulator makes quantitative species-habitat models accessi
 
 # What is contained in this repository:
 
-The files in this reprository comprise a shiny app (To learn more about Shiny, visit: https://shiny.rstudio.com/tutorial/), an interactive R-based application.The server file controls the application workflow, while the ui determines what the user sees. The "shiny_functions" file contains functions that help build the predictive data frames and rasters displayed in the ui. The "Value_per_Acre" file contains county-specific economic valuations for evaluating the economic tradeoffs of conservation actions in agricultural landscapes.
+The files in this reprository comprise a shiny app (To learn more about Shiny, visit: https://shiny.rstudio.com/tutorial/), an interactive R-based application.The server file controls the application workflow, while the ui determines what the user sees. The "County_Avg_Twnshp_Defaults2.dat" file is an R data file containing the starting landcover values for each county. The "shiny_functions" file contains functions that help build the predictive data frames and rasters displayed in the ui. The "Value_per_Acre" file contains county-specific economic valuations for evaluating the economic tradeoffs of conservation actions in agricultural landscapes.
 
 # Disclaimers and other data sources
 
