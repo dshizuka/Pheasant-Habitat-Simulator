@@ -1,6 +1,6 @@
-# What it does and why we built it:
+# What the PHS does and why we built it:
 
-The Pheasant Habitat Simulator is makes quantitative species-habitat models accessible for conservation planning through reactively updating plots. The Pheasant Habitat Simulator was built for the specific application of a ring-necked pheasant distribution model in Nebraska, USA, but may readily be customized to other species and systems using any species-habitat regression equation. To learn more about how and why we built the pheasant habitat simulator, check out our paper in PLOS One: 
+The Pheasant Habitat Simulator makes quantitative species-habitat models accessible for conservation planning through reactively updating plots. The Pheasant Habitat Simulator was built for the specific application of a ring-necked pheasant distribution model in Nebraska, USA, but may readily be customized to other species and systems using any species-habitat regression equation. To learn more about how and why we built the pheasant habitat simulator, check out our paper in PLOS One: 
 
 # What is contained in this repository:
 
