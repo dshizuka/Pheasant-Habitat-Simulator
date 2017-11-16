@@ -6,7 +6,7 @@
 
 The files in this reprository comprise a [shiny app](https://shiny.rstudio.com/tutorial/), an interactive R-based application. Detailed information about the how the code functions may be found in comments in the code itself. The function and contents of the files in the repository are as follows:
 
-### Executing Files
+### Executable Files
 + **ui** defines the user interface. It controls the organization of the application and arranges the widgets users manipulate to interact with the data.  
 + **server** contains the analytical procedure. It runs the model based on the user's inputs and renders dynamically updating plots.  
 + **shiny_functions_09192016.R** includes several functions (built by [Erica Stuber](https://scholar.google.com/citations?user=GhdnpVQAAAAJ&hl=en&oi=sra)) built to turn the user's inputs into queries from the included datasets. 
@@ -14,6 +14,7 @@ The files in this reprository comprise a [shiny app](https://shiny.rstudio.com/t
 ### Data files
 + **Value_per_Acre** contains county-specific economic valuations for evaluating the economic tradeoffs of conservation actions in agricultural landscapes.
 + **County_Avg_Twnshp_Defaults2.dat** contains the starting landcover values for each county.
++ **WWW** contains all the images included in the app by the ui.  
 
 # Disclaimers and other data sources
 
